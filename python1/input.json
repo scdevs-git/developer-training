@@ -1,0 +1,17 @@
+{
+    "nameLabel": "Name",
+    "nameDesc": "Enter your full name",
+    "emailLabel": "Email",
+    "emailDesc": "Enter your email address",
+    "emailError": "Please enter a valid email address",
+    "numberLabel": "Phone Number",
+    "numberDesc": "Enter your phone number",
+    "numberError": "Please enter a valid phone number",
+    "subjectLabel": "Subject",
+    "subjectDesc": "Enter the subject of your message",
+    "bodyLabel": "Message Body",
+    "bodyDesc": "Enter the details of your message",
+    "requiredText": "This field is required",
+    "successText": "Your submission was successful!",
+    "failText": "There's an issue with one or more fields"
+}
